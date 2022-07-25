@@ -2,7 +2,7 @@
  * @Author: syf
  * @Date: 2022-07-13 22:54:59
  * @LastEditors: syf
- * @LastEditTime: 2022-07-14 08:59:30
+ * @LastEditTime: 2022-07-14 08:59:44
  * @Description: 变量常量不可变量
  * @FilePath: \solidityLearning\solidity学习\basic\变量.sol
  */
